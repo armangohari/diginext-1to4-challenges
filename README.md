@@ -2,4 +2,4 @@
 #### Author: _Arman Gohari_
 
 ## Description
-DigiNext entry challenges' answers from 1 to 4 are and reside in this repository.
+DigiNext entry challenges' answers from 1 to 4 reside in this repository.
