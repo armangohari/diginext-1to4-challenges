@@ -1,2 +1,5 @@
-# diginext-1to4-challenges
-DigiNext entry challenge questions 1-4 are in this repository.
+# DigiNext Entry Challenges 1~4
+#### Author: _Arman Gohari_
+
+## Description
+DigiNext entry challenges' answers from 1 to 4 are and reside in this repository.
